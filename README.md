@@ -1,4 +1,5 @@
 **To-Do App – Task Manager**
+
 A simple and efficient To-Do App built using HTML, CSS, and JavaScript. This app helps you keep track of your daily tasks with a clean UI and interactive features.
 
 🔗 Live Project
